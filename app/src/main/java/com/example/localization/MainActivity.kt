@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 }
 
 //Adjust the app to change between Swedish and English
-//Edit xml - layout
+//Edit xml - layout - check!
 //Edit kotlin-file
 //Edit pictures
